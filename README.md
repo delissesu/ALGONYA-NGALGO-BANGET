@@ -32,6 +32,7 @@ Klik salah satu bagian untuk langsung membuka folder terkait di repository.
 | Materi | Link | Deskripsi |
 | :--- | :--- | :--- |
 | **Rekursif** | [📂 Buka Folder](./Rekursif) | Konsep dasar dan contoh fungsi rekursif |
+| **Rekursif** | [📂 Buka Folder](./Brute Force) | Konsep dasar dan contoh brute force |
 
 Setiap folder biasanya berisi:
 * Contoh kode dari kelas
